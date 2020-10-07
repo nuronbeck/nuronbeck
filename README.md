@@ -1,4 +1,3 @@
-### Hi there 👋, my name is [Nurbek!](https://www.facebook.com/nuronbeck)
 <a href="https://twitter.com/noreck77">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,20 +16,19 @@
 <a href="https://instagram.com/noreck77">
   <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+### Hi there 👋, my name is [Nurbek!](https://www.facebook.com/nuronbeck)
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
+</p>
 
 <br />
 
-[See on Gitstalk](https://gitstalk.netlify.app/ohidurbappy)
 
-### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from Bangladesh.
-- 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
-- 🌱 I’m currently learning Vue JS
-- 👯 I’m looking to collaborate on [Mardown Editor - Editor.md](https://github.com/ohidurbappy/editor.md)
-- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
-- 📫 How to reach me: me@ohidur.com <br>
-- 🥅 2020 Goals: Contribute more to Open Source projects
+<br />
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -40,12 +38,7 @@ I am a passionate self-taught programmer from Bangladesh.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=radical&line_height=21" alt="Github stats"/>
-</p>
 
-<br />
 
 
 
