@@ -16,6 +16,7 @@
 <a href="https://instagram.com/noreck77">
   <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 ### Hi there 👋, my name is [Nurbek!](https://www.facebook.com/nuronbeck)
 
 
