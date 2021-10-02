@@ -23,7 +23,7 @@
 
 <br />
 
-<p align="center">
+<p>
   <img align="center" src="ava.jpg" alt="Senior frontend engineer | Vue, React">
 </p>
 
