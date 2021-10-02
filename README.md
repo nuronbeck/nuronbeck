@@ -24,7 +24,7 @@
 <br />
 
 <p>
-  <img align="center" src="ava.jpg" alt="Senior frontend engineer | Vue, React">
+  <img width="847px" align="center" src="ava.jpg" alt="Senior frontend engineer | Vue, React">
 </p>
 
 <p align="left">
