@@ -21,7 +21,9 @@
 
 <br />
 
+<p align="center">
 ### Hi there 👋, my name is [Nurbek](https://www.facebook.com/nuronbeck)! Nice to see you on my github page :)
+</p>
 
 <br />
 
