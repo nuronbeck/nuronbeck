@@ -23,6 +23,10 @@
 
 <br />
 
+<p>
+  <img align="center" src="https://scontent.ftas5-1.fna.fbcdn.net/v/t1.6435-9/201103805_3982741651838322_5385499032013837601_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tr1WkeszqiEAX-hDvEH&_nc_ht=scontent.ftas5-1.fna&oh=2cca3951cc319376f402cbcf4342f4b2&oe=617DD06D" alt="Senior frontend engineer | Vue, React">
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=merko&line_height=21" alt="Github stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=merko&hide_langs_below=1&layout=compact" />
