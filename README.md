@@ -19,7 +19,7 @@
   
 <br />
 
-### Hi there 👋, my name is [Nurbek](https://www.facebook.com/nuronbeck)! Nice to see you on my github page :)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is [Nurbek](https://www.facebook.com/nuronbeck)! Nice to see you on my github page :)
 
 <br />
 
