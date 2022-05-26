@@ -56,7 +56,7 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=merko&line_height=21" alt="Github stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=merko&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=merko&hide_langs_below=1&layout=compact" />
 </p>
 
 <br />
