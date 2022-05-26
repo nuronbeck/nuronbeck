@@ -1,11 +1,11 @@
-<h3 align="center">
+<h3 align="left">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
   Nice to see you on my github page :)
 </h3>
 
 <br />
 
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/noreck77">
     <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
@@ -54,9 +54,9 @@
 
 <br />
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=merko&line_height=21&layout=compact" alt="Github stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=merko&hide_langs_below=1&layout=compact" />
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=merko&line_height=21" alt="Github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuronbeck&theme=merko&hide_langs_below=1" />
 </p>
 
 <br />
