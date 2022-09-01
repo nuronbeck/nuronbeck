@@ -29,11 +29,7 @@
 ### About me
 
 <p>
-⭐ 100% Work for result
-</p>
-
-<p>
-🏆 3+ Year experience
+⭐ 100% Work for result     🏆 3+ Year experience
 </p>
 
 ### 👨‍💻 My tools and stack
