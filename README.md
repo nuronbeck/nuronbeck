@@ -35,6 +35,14 @@
 ⭐ 100% Work for result     🏆 3+ Year experience
 </p>
 
+<p>
+✏️ Strong in common web application frameworks, single-page applications, and design patterns. Proactive team-player.
+</p>
+
+<p>
+✏️ JavaScript is my passion and if you want a true professional in this field I’m the best choice for you. Having worked on numerous web projects over 3 years I can now help you with a large variety of web related projects and issues.
+</p>
+
 ### 👨‍💻 My tools and stack
 
 <p>
