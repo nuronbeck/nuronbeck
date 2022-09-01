@@ -26,6 +26,16 @@
   Nice to see you on my github page :)
 </h3>
 
+### About me
+
+<p>
+⭐ 100% Work for result
+</p>
+
+<p>
+🏆 3+ Year experience
+</p>
+
 ### 👨‍💻 My tools and stack
 
 <p>
@@ -48,18 +58,6 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
   <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-</p>
-
-<br />
-
-### About me
-
-<p>
-⭐ 100% Work for result
-</p>
-
-<p>
-🏆 3+ Year experience
 </p>
 
 <br />
