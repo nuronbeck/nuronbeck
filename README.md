@@ -26,8 +26,6 @@
   Nice to see you on my github page :)
 </h3>
 
-<br />
-
 ### 👨‍💻 My tools and stack
 
 <p>
@@ -53,6 +51,13 @@
 </p>
 
 <br />
+
+### About me
+
+<p>
+⭐ 100% Work for result
+🏆 3+ Year experience
+</p>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuronbeck&show_icons=true&theme=merko&line_height=21" alt="Github stats"/>
