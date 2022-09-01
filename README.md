@@ -1,10 +1,3 @@
-<h3 align="left">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
-  Nice to see you on my github page :)
-</h3>
-
-<br />
-
 <div align="left">
   <a href="https://twitter.com/noreck77">
     <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,6 +18,13 @@
     <img align="left" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </div>
+
+<br />
+
+<h3 align="left">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
+  Nice to see you on my github page :)
+</h3>
 
 <br />
 
