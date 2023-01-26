@@ -1,3 +1,5 @@
+[![https://github.com/nuronbeck/nuronbeck](https://raw.githubusercontent.com/nuronbeck/nuronbeck/4f08510a31f425e6dbff6fbaaa6a26df8fce505b/undraw_welcome_cats_thqn.svg)](https://github.com/nuronbeck/nuronbeck)
+
 <div align="left">
   <a href="https://twitter.com/noreck77">
     <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
