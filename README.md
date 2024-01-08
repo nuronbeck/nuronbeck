@@ -93,7 +93,3 @@
 <a href = "https://github.com/nuronbeck/food-delivery-app-vue3/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=nuronbeck/food-delivery-app-vue3"/>
 </a>
-
-<a href = "https://github.com/avaloninnovations/2nu-theme/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=avaloninnovations/2nu-theme"/>
-</a>
