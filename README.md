@@ -90,6 +90,6 @@
 
 <br />
 
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+<a href = "https://github.com/nuronbeck/food-delivery-app-vue3/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=nuronbeck/food-delivery-app-vue3"/>
 </a>
