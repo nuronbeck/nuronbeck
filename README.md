@@ -45,9 +45,9 @@
 </details>&nbsp;
 
 [<img src="https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]
-[<img src="https://img.shields.io/badge/-Instagram-df7f57?logo=instagram&logoColor=white" alt="Instagram" />][instagram]
-[<img src="https://img.shields.io/badge/-YouTube-f70000?logo=facebook&logoColor=white" alt="Facebook" />][facebook]
-[<img src="https://img.shields.io/badge/-YouTube-f70000?logo=telegram&logoColor=white" alt="Telegram" />][telegram]
+[<img src="https://img.shields.io/badge/-Instagram-dd2a7b?logo=instagram&logoColor=white" alt="Instagram" />][instagram]
+[<img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />][facebook]
+[<img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram" />][telegram]
 
 ## Skills
 
