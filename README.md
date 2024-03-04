@@ -1,20 +1,3 @@
-<p align="center" dir="auto"> 
-  Visitors count
-
-  <br />
-  <br />
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/nuronbeck/count.svg">
-    <img
-      src="https://profile-counter.glitch.me/nuronbeck/count.svg" data-canonical-src="https://profile-counter.glitch.me/nuronbeck/count.svg"
-      style="max-width: 100%;"
-    />
-  </a>
-</p>
-
-<br />
-<br />
-
 <h2 align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/noreck77">Nurbek Ismoilov</a>, a Lead Frontend Engineer 👨‍💻
 </h2>
@@ -102,6 +85,23 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to nuronbeck@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
   <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+</p>
+
+<br />
+<br />
+
+<p align="center" dir="auto"> 
+  Visitors count
+
+  <br />
+  <br />
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/nuronbeck/count.svg">
+    <img
+      src="https://profile-counter.glitch.me/nuronbeck/count.svg" data-canonical-src="https://profile-counter.glitch.me/nuronbeck/count.svg"
+      style="max-width: 100%;"
+    />
+  </a>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/noreck77
