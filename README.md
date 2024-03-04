@@ -16,7 +16,7 @@
 <br />
 
 <h2 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm [Nurbek Ismoilov][linkedin], a Lead Frontend Engineer 👨‍💻
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/noreck77">Nurbek Ismoilov</a>, a Lead Frontend Engineer 👨‍💻
 </h2>
 
 ## About
