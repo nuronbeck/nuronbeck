@@ -78,13 +78,3 @@
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
   <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 </p>
-
-<br />
-
-### Contributors
-
-<p>
-  <a href = "https://github.com/nuronbeck/food-delivery-app-vue3/graphs/contributors">
-    <img src = "https://contrib.rocks/image?repo=nuronbeck/food-delivery-app-vue3"/>
-  </a>
-</p>
