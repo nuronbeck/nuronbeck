@@ -16,7 +16,7 @@
 <br />
 
 <h2 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm [Nurbek Ismoilov], a Lead Frontend Engineer 👨‍💻
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm [Nurbek Ismoilov][linkedin], a Lead Frontend Engineer 👨‍💻
 </h2>
 
 ## About
@@ -94,7 +94,7 @@
   <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 </p>
 
-[linkedin]: https://twitter.com/noreck77
+[linkedin]: https://www.linkedin.com/in/noreck77
 [instagram]: https://instagram.com/noreck77
 [facebook]: https://www.facebook.com/nuronbeck
 [telegram]: https://t.me/noreck77
