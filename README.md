@@ -1,11 +1,5 @@
 <p align="center" dir="auto"> 
-  Visitors count<br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/nuronbeck/count.svg">
-    <img
-      src="https://profile-counter.glitch.me/nuronbeck/count.svg" data-canonical-src="https://profile-counter.glitch.me/nuronbeck/count.svg"
-      style="max-width: 100%;"
-    />
-  </a>
+  Visitors count
 </p>
 
 <br />
