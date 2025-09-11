@@ -98,8 +98,9 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to nuronbeck@
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/nuronbeck/count.svg">
     <img
-      src="https://profile-counter.glitch.me/nuronbeck/count.svg" data-canonical-src="https://profile-counter.glitch.me/nuronbeck/count.svg"
+      src="https://profile-counter.deno.dev/github-com-nuronbeck/count.svg"
       style="max-width: 100%;"
+      alt="Nuronbeck github visitors counter"
     />
   </a>
 </p>
