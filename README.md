@@ -9,7 +9,7 @@
 - 💡 &nbsp;Bring UI/UX ideas to life
 - ✏️ &nbsp;Strong in web frameworks, SPAs and design patterns
 - ⭐ &nbsp;100% Work for result
-- 🏆 &nbsp;5+ years of experience
+- 🏆 &nbsp;8+ years of experience
 - 🇺🇿 &nbsp;Live in Tashkent, Uzbekistan
 
 <details>
