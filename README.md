@@ -90,13 +90,6 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to nuronbeck@
 <br />
 <br />
 
-<p align="center" dir="auto"> 
-  Visitors count
-
-  <br />
-  <br />
-</p>
-
 [linkedin]: https://www.linkedin.com/in/noreck77
 [instagram]: https://instagram.com/noreck77
 [facebook]: https://www.facebook.com/nuronbeck
